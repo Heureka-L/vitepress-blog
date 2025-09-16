@@ -4,8 +4,6 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Heureka's Blog",
   description: "Heureka's technical hut",
-  base: '/',
-  cleanUrls: false,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
